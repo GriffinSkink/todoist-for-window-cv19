@@ -1,4 +1,4 @@
-# 
+# custom Todoist for Windows Extension | checklists + task-creation offers the most advanced Todoist for Windows extension, with checklists and task-creation. Ideal for Windows
 
 
 
